@@ -1,1 +1,1 @@
-place=Minsk
+city=Minsk
